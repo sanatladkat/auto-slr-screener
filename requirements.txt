@@ -1,0 +1,7 @@
+groq
+pandas
+openpyxl
+pypdf
+tqdm
+python-dotenv
+PyYAML

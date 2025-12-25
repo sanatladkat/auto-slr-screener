@@ -1,0 +1,7 @@
+Not in English
+Studies using non-AI methods
+Research not related to sugarcane crop
+Review papers without any experimental/model contribution
+Manual or field based methods not involving AI
+Research using AI for other crops without sugarcane focus
+Projects focusing on economic modeling rather than disease/yield outcomes

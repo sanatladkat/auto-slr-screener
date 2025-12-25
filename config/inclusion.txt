@@ -1,0 +1,9 @@
+Paper focusing on either disease prediction and yield estimation for sugarcane using AI/ML/DL Techniques
+Studies using real-world or experimental data for sugarcane crop conditions
+Articles that apply supervised, unsupervised, or hybrid AI models
+Peer-reviewed journal papers, conference proceedings, or recent thesis
+Works that report performance metrics
+Papers using AI-powered models for both disease diagnosis and yield prediction
+Focus on predictive modeling, diagnostic performance, and smart agriculture integration
+Comparative studies showing benefit of AI models over traditional methods
+Use of large or multi-source datasets for training/testing

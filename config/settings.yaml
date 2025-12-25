@@ -1,0 +1,21 @@
+# --- AI PROVIDER SETTINGS ---
+# Keep 70b. It is the smartest model available on the free tier.
+model_id: "llama-3.3-70b-versatile"
+temperature: 0.0
+
+# --- PDF PROCESSING ---
+# Reduce slightly to 3500 chars (~900 tokens) to save budget.
+# This is still enough for Title + Abstract + Intro.
+pdf_char_limit: 3500
+
+# --- RATE LIMITING (CRITICAL FIX) ---
+# 6000 TPM limit / ~1500 tokens per paper = 4 papers max per minute.
+# We set sleep to 20s (3 papers/min) to be 100% safe.
+sleep_seconds: 20
+
+# Save frequently so you can stop/resume if needed
+save_interval: 5
+
+# --- FILE PATHS ---
+input_folder: "data/raw_pdfs"
+output_file: "data/results/slr_screened.xlsx"
