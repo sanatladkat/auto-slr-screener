@@ -2,11 +2,11 @@
 
 **An automated, fault-tolerant research assistant for the screening phase of Systematic Literature Reviews (SLR).**
 
+[![DOI](https://zenodo.org/badge/1122736531.svg)](https://doi.org/10.5281/zenodo.18058210)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Groq](https://img.shields.io/badge/AI-Groq%20Llama--3-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Stability-Self--Healing-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
-
 > **"Screening thousands of papers is no longer a human-only task. It is a data problem."**
 
 ---
@@ -187,3 +187,5 @@ This tool is a **screening assistant**. It drastically reduces workload but does
 ## 📄 License
 
 Distributed under the MIT License.
+
+
