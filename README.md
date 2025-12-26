@@ -122,7 +122,7 @@ Auto-SLR-Screener/
 
 ```bash
 # Clone the repo
-git clone [https://github.com/YOUR_USERNAME/Auto-SLR-Screener.git](https://github.com/YOUR_USERNAME/Auto-SLR-Screener.git)
+git clone [https://github.com/sanatladkat/auto-slr-screener.git](https://github.com/sanatladkat/auto-slr-screener.git)
 cd Auto-SLR-Screener
 
 # Install Dependencies
