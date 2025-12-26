@@ -189,3 +189,8 @@ This tool is a **screening assistant**. It drastically reduces workload but does
 Distributed under the MIT License.
 
 
+## 🎓 Citation
+
+If you use this tool in your research, please cite:
+
+> **Ladkat, S.** (2025). *Auto-SLR-Screener: A Fault-Tolerant LLM Pipeline for Systematic Literature Reviews*. [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.18058210
